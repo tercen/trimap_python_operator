@@ -1,9 +1,9 @@
 {
-  "name": "Median operator",
-  "description": "Return the median value per cell",
-  "tags": ["basic statistics"],
+  "name": "TriMAP",
+  "description": "Dimensionality Reduction Using Triplet Constraints",
+  "tags": ["dimensionality reduction"],
   "authors": ["tercen"],
-  "urls": ["https://github.com/tercen/median_python_operator"]
+  "urls": ["https://github.com/tercen/trimap_python_operator"]
 }
 
 
